@@ -40,6 +40,7 @@ PACKAGES="$PACKAGES luci-i18n-msd_lite-zh-cn"
 PACKAGES="$PACKAGES ddns-scripts_aliyun"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-app-serverchan"
+PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
